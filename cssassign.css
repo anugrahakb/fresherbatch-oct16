@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <title>Page Title</title>
+        
+        <style>
+            h1{
+            color:red;
+            background-color:blue;
+            }
+    
+            p{
+            background-color:gold;
+            color:yelloe;
+            }
+            
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1 align="center">My First Program CSS</h1>
+        
+        <p><marquee>This is my first program
+        <marquee></p>
+        
+    </body>
+</html>
