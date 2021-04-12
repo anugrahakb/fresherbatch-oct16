@@ -3,7 +3,7 @@
 <body>
 
 <h2>Use JavaScript to Change Text</h2>
-<p>This example writes "Hello JavaScript!" into an HTML element with id="demo":</p>
+<p>This example writes "Hello JavaScript...!" into an HTML element with id="demo":</p>
 
 <p id="demo"></p>
 
